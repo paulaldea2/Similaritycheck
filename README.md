@@ -14,5 +14,6 @@ I knew how to work with Python but I encountered some problems/bugs when when I 
 - How to work with TensorFlow API.
 
 - Examples of Texts.
+
 ![](/SS1.png)
 ![](/SS2.png)
